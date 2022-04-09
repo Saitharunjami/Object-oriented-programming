@@ -1,5 +1,4 @@
 //Write a Java program to read n strings and sort in ascending order.
-
 import java.util.Scanner;
 public class Alphabetical_Order
 {
