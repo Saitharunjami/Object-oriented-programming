@@ -1,5 +1,4 @@
 //1.Write a java code that implements the concept of inheritance. Import the package and calculate volume of a box and display it.
-
 import java.util.*; 
 public class Vol{
 public static void main(String[] args){ 
