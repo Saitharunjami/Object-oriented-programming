@@ -5,7 +5,6 @@ b.Create a list using LinkedList Class - Add elements to the list – Access ele
 
 //A)
 //CODE:
-
 import java.util.ArrayList;
 import java.util.List;
 public class Array1 {
@@ -34,7 +33,6 @@ public class Array1 {
 
 //B)
 //CODE:
-
 import java.util.*;
 public class Linklist {
 	public static void main(String args[])
