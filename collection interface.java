@@ -3,6 +3,7 @@ a.  Create a list using ArrayList Class - Add elements to the list – Access el
 b.Create a list using LinkedList Class - Add elements to the list – Access elements from the list – Remove an element from the list. 
 */
 
+
 //A)
 //CODE:
 import java.util.ArrayList;
