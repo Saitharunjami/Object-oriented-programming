@@ -1,7 +1,5 @@
 //1. Write a multi-threaded Java program to print all numbers below 100 that are both prime and Fibonacci number (some examples are 2, 3, 5, 13, etc.). Design a thread that generates prime numbers below 100 and writes them into a pipe. Design another thread that generates Fibonacci numbers and writes them to another pipe. The main thread should read both the pipes to identify numbers common to both. 
  
-
-
 import java.io.*; 
  
 import java.io.PipedWriter; import java.io.PipedReader; class fibonacci extends Thread 
