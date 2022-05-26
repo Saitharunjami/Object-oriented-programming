@@ -2,7 +2,6 @@
 
 //CODE:
 
-
 import java.util.*;
 class ExceptionLineTooLong extends Exception{
 ExceptionLineTooLong(String s)
