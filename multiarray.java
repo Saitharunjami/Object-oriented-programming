@@ -1,3 +1,5 @@
+
+
 /*2. Create a class “A” with two methods, “arms” to check whether a given number is 
 Armstrong number (sum of cube of individual digit is the same as the number) or not and 
 “multarray” ( multiply two consecutive array elements and for the last number again multiply with first number and print the value). Create 3 threads to perform the following operation simultaneously 
