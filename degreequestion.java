@@ -2,7 +2,6 @@
 //CODE:
 
 
-
 import java.util.*;
 class UnderGraduate extends Degree
 {
