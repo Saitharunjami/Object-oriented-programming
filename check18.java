@@ -1,3 +1,4 @@
+
 //3.Write a program to get the details of voter and check whether age is >18 if not, raise an exception “check18”. Create your exception in the name “check18”.
 //CODE:
 import java.util.Scanner;
