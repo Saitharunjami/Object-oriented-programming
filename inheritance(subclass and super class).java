@@ -1,4 +1,3 @@
-
 //the Car class (subclass) inherits the attributes and methods from the Vehicle class (superclass)
 //subclass (child) - the class that inherits from another class
 //superclass (parent) - the class being inherited from
