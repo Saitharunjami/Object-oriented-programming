@@ -1,6 +1,5 @@
 //1.Write a java program to demonstrate ArithmeticException, NullPointerException, ArrayIndexOutOfBoundsException and NumberFormatException using throws.
 //CODE:
-
 import java.util.Scanner;
 import java.util.*;
 public class Exception
