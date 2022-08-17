@@ -1,4 +1,3 @@
-
 //3.Write a java generic program to print the ArrayList of different data types.
 //CODE:
 import java.util.*;
