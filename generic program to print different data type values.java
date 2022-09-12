@@ -1,4 +1,3 @@
-
 //1.Write a java generic program to create class that takes one type parameter to print the different data type value and its class name.
 //CODE:
 import java.util.*;
