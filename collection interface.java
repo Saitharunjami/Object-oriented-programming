@@ -1,4 +1,3 @@
-
 /*1)Using Java Collection Interface, write a Java program that implements the List interface:  
 a.  Create a list using ArrayList Class - Add elements to the list – Access elements from the list – Remove an element from the list. 
 b.Create a list using LinkedList Class - Add elements to the list – Access elements from the list – Remove an element from the list. 
