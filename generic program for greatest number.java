@@ -1,3 +1,4 @@
+
 //2.Write a java generic program to print greatest of two numbers.
 //CODE:
 class Max{
